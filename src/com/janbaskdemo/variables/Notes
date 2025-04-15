@@ -1,0 +1,18 @@
+Variables: A variable is a box/jar/container which is capable of holding/storing something
+Create a variable:
+1- dataType variableName = Value
+
+   Data Type:
+             Primitive Data Type[8]: We know in advance how much memory will be consumed
+                                   : We don't need objects to be able to use them
+              -Boolean Type: boolean
+              -Numeric Type
+                  -integer Type: Byte, short, int, long
+                  -Decimal Type: float, double
+                  -Character Type: char
+
+
+             Non Primitive Data Type:We do not know in advance how much memory will be consumed
+                                    : We need objects to be able to use them
+               -String
+               -Arrays etc....
