@@ -22,11 +22,17 @@ public class CharValueDataType {
         System.out.println(i1);
 
         System.out.println("------------------Questions------------------");
-        char c5 = 'a';//97
-        char c6 = 'b'; //98
-        char c7 = 1; //NUL
+        char c5 = 'a';
+        char c6 = 'b';
+        char c7 = 30;
         int i2 = 'c';
+        System.out.println(c7);//NUL
+        System.out.println(c5);//a
+        System.out.println(i2);//99
+        System.out.println(c7+c5); //1 + 97 = 98
+        System.out.println(c7+i2); //1 + 99 = 100
 
+        System.out.println("===============================================");
         System.out.println(c5+c6);//195
         System.out.println(c5 + c7); //98
         System.out.println(c7+c5); //98
@@ -34,6 +40,9 @@ public class CharValueDataType {
         System.out.println((int)c5+ c6); //195
         System.out.println(3+c5);
         System.out.println('3'+c5); //51+97
+
+
+
 
     }
 }
