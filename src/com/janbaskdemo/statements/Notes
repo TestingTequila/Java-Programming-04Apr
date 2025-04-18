@@ -1,0 +1,56 @@
+Statements: Whenever we have to make some decisions, we will use statements
+ if statement
+ if(condition)
+ {
+     Code in if part will execute only if condition is true
+ }
+ nested if statement
+ if else statement  : When we have to make single Decision
+  if(condition)
+  {
+     Code in if part will execute only if condition is true
+  }
+  else
+  {
+     Code in else part will execute only if condition is false
+  }
+ multiple if with else statement: This should be avoided as this might give you incorrect results
+ if else if statement: This is used whenever we have multiple options to make decisions from
+   if(condition1)
+   {
+      Code in if part will execute only if condition is true
+   }
+   else if(condition2)
+   {
+     Code in if part will execute only if condition is true
+   }
+   else if(condition3)
+   {
+     Code in if part will execute only if condition is true
+   }
+   else if(conditionN)
+   {
+     Code in if part will execute only if condition is true
+   }
+   else
+   {
+      Code in else part will execute only if condition is false
+   }
+ switch statement:
+    switch(over what we are switching)
+    {
+       case condition1:
+        action
+        break;
+               case condition1:
+                action
+                break;
+                       case condition1:
+                        action
+                        break;       case condition1:
+                                      action
+                                      break;
+                                      default:
+                                      action
+                                      break;
+    }
