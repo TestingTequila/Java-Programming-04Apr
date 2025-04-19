@@ -1,0 +1,23 @@
+Loops: to Perform some repetitive tasks
+       to perform some action/s over group of items
+
+
+while loop
+int startingPoint
+while(conditionToStopTheLoop)
+{
+    code here will execute TILL THE TIME condition is TRUE
+    I/D;
+}
+----------------------------------------------------------------------
+for loop
+for(int startingPoint; conditionToStopTheLoop;I/D)
+{
+    code here will execute TILL THE TIME condition is TRUE
+}
+----------------------------------------------------------------------
+advanced for loop[for each loop]
+for(dataTypeOfArray aliasName:NameOfArray)
+{
+    action
+}
