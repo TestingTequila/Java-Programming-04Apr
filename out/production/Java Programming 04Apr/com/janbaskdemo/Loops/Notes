@@ -21,3 +21,8 @@ for(dataTypeOfArray aliasName:NameOfArray)
 {
     action
 }
+
+//While Loop: When number of iteration is not sure
+//For Loop: When your sure about number of iterations
+//Advanced for loop: when we have to iterate over all the values of a group
+//Array.toString(): Only for display

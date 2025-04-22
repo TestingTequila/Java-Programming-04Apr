@@ -1,0 +1,23 @@
+What is Class: Its a Template
+What Is an Object: Every Copy of the template is known as its Object
+
+How to create Object of A class
+  ClassName nameOfCopy= new ClassName();
+
+  Abacus a = new Abacus();
+
+  Random
+
+  Random r = new Random();
+
+  Select
+
+  Select s = new Select();
+
+  Pyramid
+
+  Pyramid p = new Pyramid();
+
+  Automobile
+
+  Automobile auto = new Automobile();
