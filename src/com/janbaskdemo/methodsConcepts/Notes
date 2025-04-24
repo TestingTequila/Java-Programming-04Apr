@@ -1,0 +1,34 @@
+A class contains variables and Methods
+Tea:
+   Sugar
+   Milk Powder
+   Tea Leaves
+   Ginger Powder
+   Water
+
+What are methods: the reason why we create a variable, that reason itself is the method
+Method: Methods are actions performed over class variables
+
+Syntax of Method:
+
+   AccessModifier[public, private, protected] returnType[void, dataTypes] methodName(can/t parameters)
+   {
+       action over class variables
+   }
+
+   Access Modifier: This defines the accessibility of variables and methods
+   public: This can be accessed anywhere
+   private: This cannot be accessed outside the class
+
+   Global Variable/Class level Variables: Variables that are created outside the class
+   If you want or the problem is such that all methods of the class needs the variable and also its value[common value]
+
+   parameters: when we pass variables within the curved brackets of a method, we call them parameters
+      If you do not want your variables to be shared by different methods of the class, we pass them as parameters
+
+   local variable: when we create variables within the curly brackets{} of a method, we call them local variables
+   when you always have fixed value of variable/s
+
+   returnType except void: If you wish to use the output of a method to perform further calculation or manipulation, we should provide
+                           return type instead of void.
+
