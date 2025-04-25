@@ -1,0 +1,5 @@
+Common Property Value of a class should be made static
+Static variables/methods does not belong to objects
+We call static variables/methods directly using class name as these belongs to class and not to the object
+To call non-static variables/methods, we use Object reference variable
+To call static variables/methods, we use ClassName

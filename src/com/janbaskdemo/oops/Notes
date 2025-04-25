@@ -1,0 +1,39 @@
+A---------------Road------------------>B
+1. He may not follow the traffic Rules
+   -He might be caught
+   -He might get into accident
+   -He might get into accident and caught
+   -He might pay fine
+   -He might get Jailed
+   -He might not be caught and reaches his destination
+
+2. He may follow all the Rules
+   -He will not be caught
+   -He will not get into accident
+   -He will not get into accident and caught
+   -He will not pay fine
+   -He will not get Jailed
+   -He will not be caught and reaches his destination
+
+   =============Programming Languages====================
+   Set of rules[OOPs] for writing the codes
+     -Encapsulation
+        -data hiding
+     -Inheritance
+        -abstraction
+        -interface
+     -Polymorphism
+        -method overriding
+        -method overloading: We can have two or more methods with same name in a class, provided that,
+          i) their parameter data types are different
+          ii) their parameter data type order is different
+          iii) their parameter count is different
+          Note: return type being same or different doesn't impacts a method overloading
+              : This is also known as compile time(static) polymorphism
+
+
+        Data safety and security
+        We will write less amount of code
+        We can hide or show those codes that we want
+        less use of repetition
+        change code implementation
