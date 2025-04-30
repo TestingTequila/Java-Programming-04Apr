@@ -18,3 +18,5 @@ The moment we create object of a class, the constructor is called
 
 Constructors Vs Methods
 Constructor job is to assign values to Global Variable
+
+Constructor is used for assigning either default value/some other value to the global/class level variables

@@ -1,0 +1,9 @@
+Encapsulation: This states the variables and methods should be created within the class and
+               the variables, that holds data, shouldn't be accessible outside the class, we can access
+               these private variables through the methods of the class.
+
+private variables
+1. setter method + getter method
+2. Constructors  + getter method
+3. Constructors  + getter method + setter method
+4. encapsulating private methods within public methods

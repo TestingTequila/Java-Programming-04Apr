@@ -6,7 +6,7 @@ public class Car
     int price;
     String color;
     static int wheels=4;
-    static int steering=1;
+    static int steering;
 
     public  void start()
     {
