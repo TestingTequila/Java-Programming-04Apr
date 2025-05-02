@@ -1,0 +1,6 @@
+Multiple ways of updating the object of a class
+
+1. Class: setter
+2. Class: constructor, setter
+3. Class: constructor, callByReference
+4. Class: setter, CallByReference
