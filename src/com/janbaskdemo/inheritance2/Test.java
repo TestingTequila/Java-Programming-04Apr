@@ -30,5 +30,11 @@ public class Test {
         d.subtraction(12, 4);
         d.multiplication(12, 4);
         d.division(12, 4);
+
+        System.out.println("=====Can we create Object of an Abstract Class?======");
+        //Base base = new Base();
+        //base.addition(12,6);
+        System.out.println("=====We Cannot create Object of an Abstract Class======");
+
     }
 }

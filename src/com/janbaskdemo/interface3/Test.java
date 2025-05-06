@@ -30,5 +30,13 @@ public class Test {
         d.subtraction(12, 4);
         d.multiplication(12, 4);
         d.division(12, 4);
+
+        System.out.println("====Can we create object of an Interface?=============");
+        //Base base= new Base();
+        //base.addition(12,6);
+        //base.subtraction(12,6);
+        //base.multiplication(12,6);
+        //base.division(12,6);
+        System.out.println("====We cannot create object of an Interface=============");
     }
 }

@@ -1,0 +1,9 @@
+If a class is final, we cannot inherit it
+Cannot override a method with final keyword
+static methods can be inherited but cannot be overridden
+final methods can be inherited but cannot be overridden
+static + final can be inherited, but can't be overridden
+variables cannot be overridden
+
+Override an overloaded method[payment()] – Yes
+Overload an overridden method – Yes
