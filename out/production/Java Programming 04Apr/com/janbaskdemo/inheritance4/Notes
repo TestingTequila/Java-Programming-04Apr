@@ -1,0 +1,7 @@
+1. Can we create object of an interface --No
+2. Can we create constructor inside an interface --No
+3. Can we create constructor inside an abstract class --Yes
+4. Can Abstract methods be final--No
+5. Can Abstract methods be private--No
+6. Can abstract methods be static -No
+7. 1.	Interface can have concrete methods, provided that they are either static or have access modifier as default

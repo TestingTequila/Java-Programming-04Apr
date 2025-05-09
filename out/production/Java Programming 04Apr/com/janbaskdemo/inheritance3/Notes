@@ -7,3 +7,5 @@ variables cannot be overridden
 
 Override an overloaded method[payment()] – Yes
 Overload an overridden method – Yes
+
+Multiple inheritance among classes is not possible in Java
