@@ -1,0 +1,6 @@
+20.	Note: Child class constructor has responsibility of calling parent class constructor default or Parametrized Constructor
+and if child class constructor isn’t calling any of default or parametrized
+constructor this will throw error. Default constructor of Parent class is called
+automatically by both default/Parametrized constructor of child class
+but to call parametrized constructor of Parent class,
+we use super keyword in all the constructors of Child class.

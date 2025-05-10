@@ -4,4 +4,6 @@
 4. Can Abstract methods be final--No
 5. Can Abstract methods be private--No
 6. Can abstract methods be static -No
-7. 1.	Interface can have concrete methods, provided that they are either static or have access modifier as default
+7. Interface can have concrete methods, provided that they are either static or have access modifier as default
+8. We can create variables in interface and by default they will always be static and final
+   Why variables are static, if they were not static, we need to access through object and we cannot create object of interfaces.
