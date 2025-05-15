@@ -1,0 +1,2 @@
+1. Stack memory stores the reference variable/s of object/s created
+2. It maintains the execution order of methods within an object

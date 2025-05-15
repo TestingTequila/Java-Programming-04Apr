@@ -1,0 +1,5 @@
+Anything placed in "" becomes a String
+        String fName = "10";
+        String lName = "20";
+        String mName = "false";
+        System.out.println(fName+lName);
