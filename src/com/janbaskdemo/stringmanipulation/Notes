@@ -3,3 +3,8 @@ Anything placed in "" becomes a String
         String lName = "20";
         String mName = "false";
         System.out.println(fName+lName);
+
+String Manipulation
+     0. .length()
+     1. charAt(int index)
+     2. indexOf(Char c)
