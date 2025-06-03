@@ -1,0 +1,8 @@
+1. Compile time Exception/Error: While you are writing the code
+2. Run time Exception/Error    : While you are running/executing the code
+
+Exception and Error:
+
+Exception occurs because of the code that the programmer(we) writes
+Error occurs because JVM cannot handle it
+
